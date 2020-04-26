@@ -24,10 +24,15 @@ h3{
   color: rgb(105, 105, 105);
   margin: 3em 0em 3em 11em;
   text-transform: uppercase;
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 h4{
   font-family: sans-serif;
+  text-transform: lowercase;
+}
+
+p{
+    font-family: sans-serif;
   text-transform: lowercase;
 }
