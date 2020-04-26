@@ -3,7 +3,7 @@
 
 h1{
   color: rgb(0, 0, 139);
-  margin:
+  margin: 2em, 0em, 0em, 6em;
   padding: 2em, 2em, 2em, 2em;
   text-transform: uppercase;
   font-family: monospace;
@@ -12,7 +12,7 @@ h1{
 
 h2{
   color: rgb(64, 64, 64);
-  margin:
+  margin: 2em, 0em, 0em, 6em;
   padding: 2em, 2em, 2em 2em;
 }
 
