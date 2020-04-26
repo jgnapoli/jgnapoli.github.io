@@ -3,14 +3,17 @@
 
 h1{
 color: rgb(0, 0, 0);
-padding: 0em, 0em, 0em, 2em;
+margin:
+padding: 2em, 2em, 2em, 2em;
+  
 }
 
 h2{
   color: rgb(0, 0, 139);
-  Padding: 0em, 0em, 0em 2em;
+  margin:
+  padding: 2em, 2em, 2em 2em;
 }
 
 h3{
-  color: rgb(150, 150, 150);
+  color: rgb(105, 105, 105);
   Padding:
