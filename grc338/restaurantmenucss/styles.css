@@ -3,17 +3,13 @@
 
 h1{
   color: rgb(25, 25, 112);
-  margin: 2em, 0em, 0em, 6em;
-  padding: 2em, 2em, 2em, 2em;
   text-transform: lowercase;
-  font-family:
+  font-family: sans-serif;
   
 }
 
 h2{
   color: rgb(64, 64, 64);
-  margin: 2em, 0em, 0em, 6em;
-  padding: 2em, 2em, 2em 2em;
   text-transform: lowercase;
   font-family: sans-serif;
   
@@ -21,8 +17,6 @@ h2{
 
 h3{
   color: rgb(105, 105, 105);
-  margin: 2em, 0em, 0em, 6em;
-  padding: 2em, 2em, 2em 2em;
   text-transform: lowercase;
   font-family: sans-serif;
 }
