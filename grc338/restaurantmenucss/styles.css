@@ -2,9 +2,10 @@
 
 
 h1{
-color: rgb(0, 0, 0);
-margin:
-padding: 2em, 2em, 2em, 2em;
+  color: rgb(0, 0, 0);
+  margin:
+  padding: 2em, 2em, 2em, 2em;
+  text-transform: uppercase;
   
 }
 
