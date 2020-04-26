@@ -2,7 +2,7 @@
 
 
 h1{
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 139);
   margin:
   padding: 2em, 2em, 2em, 2em;
   text-transform: uppercase;
@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-  color: rgb(0, 0, 139);
+  color: rgb(64, 64, 64);
   margin:
   padding: 2em, 2em, 2em 2em;
 }
