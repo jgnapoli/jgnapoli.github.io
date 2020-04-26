@@ -1,5 +1,9 @@
 /* CSS DOCUMENT*/
 
+html{
+  background: rgb(255, 0, 0)
+}
+
 h1{
 color: rgb(255, 0, 0);
 }
