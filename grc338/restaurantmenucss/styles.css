@@ -5,6 +5,7 @@ h1{
   color: rgb(25, 25, 112);
   text-transform: uppercase;
   font-family: sans-serif;
+  font-size: 3em;
   
 }
 
@@ -12,6 +13,7 @@ h2{
   color: rgb(64, 64, 64);
   text-transform: lowercase;
   font-family: sans-serif;
+  font-size: 3em;
   
 }
 
