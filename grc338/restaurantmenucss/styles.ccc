@@ -1,17 +1,9 @@
 /* CSS DOCUMENT */
 
-<head
-      <link href="jgnapoli.github/grc338/restaurantmenucss/">
-
-<meta name="viewport" content="width=device‑width, initial‑scale=1">
-<link href="jgnapoli.github/grc338/restaurantmenucss/">
-
-/head>
-
-
 h1{
 Padding:
 font size:
 color: rgb(0, 0, 139);
 }
+
 
