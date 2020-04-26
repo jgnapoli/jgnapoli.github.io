@@ -20,7 +20,8 @@ h2{
 
 h3{
   color: rgb(105, 105, 105);
-  text-transform: lowercase;
+  margin: 3em 0em 3em 11em;
+  text-transform: uppercase;
   font-family: sans-serif;
 }
 
