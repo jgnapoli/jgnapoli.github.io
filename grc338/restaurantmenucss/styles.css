@@ -39,7 +39,7 @@ p{
   text-transform:
 }
 
-.price{
+p.price{
   color: rgb(0, 53, 102);
   font-family: serif;
 }
