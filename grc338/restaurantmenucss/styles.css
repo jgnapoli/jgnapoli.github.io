@@ -25,7 +25,7 @@ h3{
   margin: 2em 0em 1em 0em;
   text-transform: uppercase;
   font-family: serif;
-  font-size: 2em
+  font-size:
   
 }
 
@@ -43,6 +43,6 @@ p{
 
 
 p.blue{
-  color: rgb(0, 53, 102);
+  color: rgb(139, 0, 0);
   font-family: serif;
 }
