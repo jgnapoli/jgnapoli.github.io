@@ -41,12 +41,12 @@ p{
     
 }
 
-p.description{
+.description{
   color: rgb(0, 0, 0);
   font-family: sans-serif;
 }
 
-p.price{
+.price{
   color: rgb(0, 53, 102);
   font-family: serif;
 }
