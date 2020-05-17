@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 img {
 width: 90%;
-margin: 1em 15em 1em 1em;
+margin: 1em 15em 0em 1em;
     float: left;
  
 }
@@ -55,7 +55,7 @@ p{
 
 nav {
   color: rgb(139, 0, 0);
-  margin: 1em 3.5em .5em 3.5em;
+  margin: 0em 3.5em .5em 3.5em;
   Padding: 0em 0em 0em 0em;
   text-transform: uppercase;
   font-family: serif;
