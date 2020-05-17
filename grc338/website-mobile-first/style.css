@@ -23,7 +23,7 @@ h2{
   Padding: 0em 0em 0em 0em;
   font-family: serif;
   font-size: 1em;
-    float:left;
+    clear: both;
 }
 
 h3{
