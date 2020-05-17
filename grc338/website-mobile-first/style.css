@@ -1,48 +1,51 @@
 /*CSS DOCUMENT*/
-
-body {
-    margin: 4em 0em 3em 0em;
-    
-}
-
-
-nav{
-  color: rgb(139, 0, 0);
-  margin: 1em 3.5em .5em 3.5em;
-  Padding: 0em 0em 0em 0em;
-  text-transform: uppercase;
-  font-family: serif;
-  font-size: 1em;
-}
-
-
-nav ul{
-      color: rgb(0, 0, 0);
-  margin: 1em 3.5em .5em 3.5em;
-  Padding: 0em 0em 0em 0em;
-  text-transform: uppercase;
-  font-family: serif;
-    
-  font-size: 2em;
-    float: left;
-    
-}
-
 img {
-width: 20%;
-margin: 0em 0em 1em 10em;
-    float:left;
-    
+width: 60%;
+margin: 1em 1em 1em 1em;
+    float: right;
+ 
 }
-
 
 h1{
+  color: rgb(0, 0, 0);
+  margin: 1em 1em 1em 1em;
+  Padding: 0em 0em 0em 0em;
+  text-transform: lowercase;
+  font-family: serif;
+  font-size: 1em;
+    float:left;
+  
+}
+
+nav {
   color: rgb(139, 0, 0);
   margin: 1em 3.5em .5em 3.5em;
   Padding: 0em 0em 0em 0em;
   text-transform: uppercase;
   font-family: serif;
   font-size: 1em;
-    float:right;
-  
+    list-style: none;
 }
+
+nav ul{
+    float:right;
+    padding: 1em 0em 0em 0em;
+}
+
+nav ul li{
+list-style: none;
+display: inline;
+margin-right: 2em;
+font-family: sans-serif;
+text-transform: uppercase;
+
+    
+}
+
+nav ul li a{
+text-decoration: none;
+color: rgb(0, 0, 0);
+}
+
+
+
