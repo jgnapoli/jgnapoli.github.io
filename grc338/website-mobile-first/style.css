@@ -1,17 +1,8 @@
-//*CSS DOCUMENT*//
-
-html{
-  
-}
-
+/*CSS DOCUMENT*/
 
 body {
-}
-
-
-h1 {   
-  width: 1em;
-  
+    margin: 4em 0em 3em 0em;
+    
 }
 
 
@@ -21,17 +12,37 @@ nav{
   Padding: 0em 0em 0em 0em;
   text-transform: uppercase;
   font-family: serif;
-  font-size: 3em;
+  font-size: 1em;
 }
 
 
 nav ul{
+      color: rgb(0, 0, 0);
+  margin: 1em 3.5em .5em 3.5em;
+  Padding: 0em 0em 0em 0em;
+  text-transform: uppercase;
+  font-family: serif;
+    
+  font-size: 2em;
+    float: left;
+    
+}
+
+img {
+width: 20%;
+margin: 0em 0em 1em 10em;
+    float:left;
+    
 }
 
 
-nav ul li {
-}
-
-
-nav ul li a {       
+h1{
+  color: rgb(139, 0, 0);
+  margin: 1em 3.5em .5em 3.5em;
+  Padding: 0em 0em 0em 0em;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 1em;
+    float:right;
+  
 }
