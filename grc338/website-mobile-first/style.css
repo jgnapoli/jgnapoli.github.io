@@ -1,6 +1,7 @@
 //*CSS DOCUMENT*//
 
 html {
+  
 }
 
 
@@ -14,7 +15,13 @@ h1 {
 }
 
 
-nav{   
+nav{
+  color: rgb(139, 0, 0);
+  margin: 1em 3.5em .5em 3.5em;
+  Padding: 0em 0em 0em 0em;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 3em;
 }
 
 
