@@ -27,15 +27,15 @@ h2{
 }
 
 h3{
-    float:right;
+    float:left;
 }
 
 h4{
-    float:right;
+    float:left;
 }
 
 p{
-    float: right;
+    float: left;
 }
 
 nav {
