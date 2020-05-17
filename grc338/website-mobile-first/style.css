@@ -44,6 +44,15 @@ h4{
     float:left;
 }
 
+p{
+  color: rgb(0, 0, 0);
+  margin: 1em 1em 1em 1em;
+  Padding: 0em 0em 0em 0em;
+  font-family: serif;
+  font-size: .5em;
+    float:left;
+}
+
 
 nav {
   color: rgb(139, 0, 0);
