@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 img {
 width: 100%;
-margin: 2em 10em 0em 25em;
+margin: 2em 10em 0em 5em;
     float: left;
      
 }
@@ -76,7 +76,7 @@ nav {
 }
 
 nav ul{
-    float:
+    float:left;
     padding: 1em 0em 0em 0em;
 }
 
