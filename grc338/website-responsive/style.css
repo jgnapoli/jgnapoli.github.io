@@ -1,1 +1,99 @@
+/*CSS DOCUMENT*/
+img {
+width: 40%;
+margin: 1em 15em 0em 1em;
+    float: left;
+     
+}
+
+div.blurb{
+    max-width: 10em;
+    
+}
+
+div.container{
+    margin:auto;
+    
+}
+        
+
+h1{
+  color: rgb(0, 0, 0);
+  margin: 0;
+  Padding: 0em 0em 0em 0em;
+  font-family: serif;
+  font-size: 2em;
+    float:left;
+  
+}
+
+h2{
+  color: rgb(0, 0, 0);
+  margin: 0;
+  Padding: 0em 0em 0em 0em;
+  font-family: serif;
+  font-size: 1em;
+    clear: both;
+}
+
+h3{
+  color: rgb(102, 0, 51);
+  margin: 0;
+  Padding: 5em 0em 0em 0em;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 1.5em;
+    clear: both;
+}
+
+h4{
+  color: rgb(0, 0, 0);
+  margin: 0;
+  Padding: 0em 0em 0em 0em;
+  font-family: serif;
+  list-style: none;
+    clear: both;
+}
+
+p{
+  color: rgb(0, 0, 0);
+  margin: 0;
+  Padding: 0em 0em 0em 0em;
+  font-family: serif;
+  list-style: none;
+    clear: both;
+}
+
+
+nav {
+  color: rgb(139, 0, 0);
+  margin: 0;
+  Padding: 0em 0em 0em 5em;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 1em;
+    list-style: none;
+}
+
+nav ul{
+    float:right;
+    padding: 1em 0em 0em 0em;
+}
+
+nav ul li{
+list-style: none;
+display: inline;
+margin-right: 2em;
+font-family: sans-serif;
+text-transform: uppercase;
+
+    
+}
+
+nav ul li a{
+text-decoration: none;
+color: rgb(0, 0, 0);
+}
+
+
 
