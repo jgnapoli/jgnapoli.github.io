@@ -1,8 +1,8 @@
 /*CSS DOCUMENT*/
 img {
 width: 60%;
-margin: 1em 1em 1em 3em;
-    float: left;
+margin: 1em 15em 1em 3em;
+    clear:both;
      
 }
 
@@ -11,15 +11,15 @@ div.blurb{
     
 }
 
-@media only screen and (min-width:35em){
+@media only screen and (min-width:45em){
     div.blurb{
-        width:99%;
+        width:80%;
         float:left;
-        margin-right: 2em;
+        margin-right: 1em;
     }
 }
 
-div. container{
+div.container{
     margin: auto;
     
 }
