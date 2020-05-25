@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 img {
 width: 40%;
-margin: 1em 15em 0em 1em;
+margin: 0;
     float: left;
      
 }
@@ -76,7 +76,7 @@ nav {
 }
 
 nav ul{
-    float:left;
+    float:right;
     padding: 1em 0em 0em 0em;
 }
 
@@ -94,6 +94,3 @@ nav ul li a{
 text-decoration: none;
 color: rgb(0, 0, 0);
 }
-
-
-
